@@ -1,6 +1,6 @@
-# Berlin buildings
+# Berlin Buildings
 
-This [shapefile](https://github.com/wbkd/datasets/blob/master/berlin-building-floors/berlin-building-floors.zip?raw=true) inlcudes buildings in Berlin. 
+This zipped [shapefile](https://github.com/wbkd/datasets/blob/master/berlin-building-floors/berlin-building-floors.zip?raw=true) inlcudes buildings with their floor number and type.
 
 ### Data Attributes:
 
